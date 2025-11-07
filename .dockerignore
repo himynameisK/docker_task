@@ -1,0 +1,10 @@
+node_modules/
+
+*.log
+
+config.local.json
+
+tmp/
+temp/
+
+*.class
